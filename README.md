@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funke-hoffnung/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Funke Hoffnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung/) |
+| **Get License** | [Commercial Licensing for Ein Funke Hoffnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, lass die Stadt hinter uns
+> Rote Ampeln egal, heute Nacht bist du Kunst
+> Dein Blick in mei'm Rückspiegel, pures Adrenalin
+> Du bist mein Funke Hoffnung, lass uns einfach entflieh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
